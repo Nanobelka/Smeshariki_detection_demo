@@ -42,6 +42,12 @@
 | Sovunia  | 196    | 36        | 0.969     | 0.864  | 0.968  | 0.820     |
 | logo     | 196    | 21        | 0.865     | 0.915  | 0.954  | 0.879     |
 
-Нормализованная Confusion Matrix
-
 ![Нормализованная Confusion Matrix](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/confusion_matrix_normalized.png)
+
+![Кривая F1~Confidence](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/F1_curve.png)
+
+![Кривая Precision~Confidence](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/P_curve.png)
+
+![Кривая Recall~Confidence](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/R_curve.png)
+
+
