@@ -1,3 +1,5 @@
+![Пример работы модели](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/title_example.jpg)
+
 # [Детекция героев мультсериала "Смешарики" на изображениях](https://smeshariki-detection.streamlit.app/)
 [Веб-приложение](https://smeshariki-detection.streamlit.app/) на базе модели детекции объектов
 
