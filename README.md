@@ -11,6 +11,9 @@
 ### Данные
 
 Количество изображений в датасете: **978**.
+Количество классов: **11**.  
+Названия классов: `Barash`, `Bibi`, `Ezhik`, `Karych`, `Kopatych`, `Krosh`, `Losiash`, `Nusha`, `Pandi`, `Pin`, `Sovunia`, `logo`.
+
 ![Распределение меток](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/labels.jpg)
 
 
@@ -19,8 +22,6 @@
 Модель: **yolov8m** из семейства YOLO.  
 Данные для обучения, валидации, тестирования: **60%, 20%, 20%** от исходных данных соответственно.  
 Количество эпох обучения: **40**.  
-Количество классов: **11**.  
-Названия классов: `Barash`, `Bibi`, `Ezhik`, `Karych`, `Kopatych`, `Krosh`, `Losiash`, `Nusha`, `Pandi`, `Pin`, `Sovunia`, `logo`.
 
 ![Лосс и метрики во время обучения](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/results.png)
 
