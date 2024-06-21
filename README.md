@@ -21,6 +21,8 @@
 Количество классов: **11**.  
 Названия классов: `Barash`, `Bibi`, `Ezhik`, `Karych`, `Kopatych`, `Krosh`, `Losiash`, `Nusha`, `Pandi`, `Pin`, `Sovunia`, `logo`.
 
+![Лосс и метрики во время обучения](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/results.png)
+
 
 ### Тестирование модели
 
@@ -51,5 +53,3 @@
 ![Кривая Recall~Confidence](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/R_curve.png)
 
 ![Кривая Precision~Recall](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/PR_curve.png)
-
-![Лосс и метрики во время обучения](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/results.png)
