@@ -17,6 +17,8 @@
 Количество классов: **11**.  
 Названия классов: `Barash`, `Bibi`, `Ezhik`, `Karych`, `Kopatych`, `Krosh`, `Losiash`, `Nusha`, `Pandi`, `Pin`, `Sovunia`, `logo`.
 
+Информация о распределении классов и ограничительных рамок (bboxes):
+
 ![Распределение меток](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/labels.jpg)
 
 
