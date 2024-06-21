@@ -11,7 +11,7 @@
 ### Данные
 
 Количество изображений в датасете: **978**.
-![Распределение меток](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/labels.png)
+![Распределение меток](https://github.com/Nanobelka/Smeshariki_detection_demo/blob/main/images/labels.jpg)
 
 
 ### Обучение модели
